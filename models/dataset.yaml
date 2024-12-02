@@ -1,0 +1,8 @@
+train: C:\Users\palmi\OneDrive\Documentos\TEC\ITD\ConcentracionI.A\bloque2concentracion\myotube_segmentation_cv\data\processed\train\
+val: C:\Users\palmi\OneDrive\Documentos\TEC\ITD\ConcentracionI.A\bloque2concentracion\myotube_segmentation_cv\data\processed\val\
+test:
+
+names:
+    0: myotube
+
+

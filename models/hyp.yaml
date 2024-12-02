@@ -1,0 +1,5 @@
+# hyp.yaml
+lr0: 0.01
+momentum: 0.937
+weight_decay: 0.0005
+giou: 0.05  # giou loss gain
